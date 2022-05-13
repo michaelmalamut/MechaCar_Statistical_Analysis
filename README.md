@@ -23,4 +23,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Test on Suspension Coils
 
+![t_tests](https://user-images.githubusercontent.com/97328622/168377898-206eea00-351a-4106-a554-2dc01a6ba493.png)
+
+* The p-value of the suspension coil’s PSI is 0.06028, which is above the significance level of 0.05% and therefore demonstrates that it is not statistically different from the mean population PSI results.
+
+* The p-value for Lot1 is smaller than the 0.05 significance level. Therefore, there is enough evidence to reject the null hypothesis and conclude there is a difference in Lot1 mean compared to the population mean.
+
+* The p-value for Lot2 is smaller than the 0.05 significance level. Therefore, there is enough evidence to reject the null hypothesis and conclude there is a difference in Lot1 mean compared to the population mean.
+
+* The p-value for Lot3 is larger than the 0.05 significance level. Therefore, Lot3 is statistically similar to the population mean.
+
 ## Study Design Comparing the MechaCar to the Competition
