@@ -12,10 +12,14 @@ The multiple r-suare value is 0.7149 and the p-value is velow the significance l
 
 ## Summary Statistics on Suspension Coils
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
 ![total_summary](https://user-images.githubusercontent.com/97328622/168377290-a9bc2721-0db5-4e8d-9979-079e773f2939.png)
 
 ![lot_summary](https://user-images.githubusercontent.com/97328622/168377313-a80f72e4-269d-4fa0-a3e9-536141d253a9.png)
 
+* The current manufacturing data meets the design specification of not exceeding 100 psi for Lot 1 and Lot 2.
+* Lot3 does not meet the design specification with a variance of 170 psi which exceeds the 100 threshold for this excercise.
 
 ## T-Test on Suspension Coils
 
