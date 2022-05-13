@@ -34,3 +34,20 @@ The design specifications for the MechaCar suspension coils dictate that the var
 * The p-value for Lot3 is smaller than the 0.05 significance level.
 
 ## Study Design Comparing the MechaCar to the Competition
+
+The transport sector is one of the largest sources of CO2 emissions and a major source of air pollution.
+
+Is the MechCar prototype better for our enviornment than it's competitors?
+
+To test for MechaCar and it's competitors impact on the enviorment, we will perform a statistical analysis based on the following metrics:
+
+ - CO2 Emissions
+ - MPG
+
+Null Hypothesis: There is no difference in CO2 emissions between MechaCar and its competitors.
+
+Alternate Hypothesis: There is a difference in CO2 emissions between MechCar and its competitors.
+
+Statisitcal Test: T-Tests on CO2 Emissions
+
+Data needed: CO2 emissions for MechCar and their competitors in a dataframe
